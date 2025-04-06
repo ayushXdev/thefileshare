@@ -40,18 +40,14 @@ cd thefileshare
 
 
 2. Start the Frontend
-bash
-Copy
-Edit
+
 cd client
 npm install
 npm start
 
 
 3. Start the Backend
-bash
-Copy
-Edit
+
 cd ../server
 npm install
 node backend.js    # or server.js depending on your file name
