@@ -29,7 +29,7 @@
       "react-app/jest"
     ]
   },
- "proxy": "https://thefileshare-1.onrender.com",
+ "proxy": "https://files-share-wiba.onrender.com",
   "browserslist": {
     "production": [
       ">0.2%",
