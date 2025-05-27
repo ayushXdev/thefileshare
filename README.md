@@ -4,7 +4,7 @@ TheFileShare is a full-stack web application that allows users to securely uploa
 
 ---
 #LIVE DEMO
-(https://webfilesharing.netlify.app/login)
+(https://webfilesharing.netlify.app/)
 
 
 ## 📁 Project Structure
